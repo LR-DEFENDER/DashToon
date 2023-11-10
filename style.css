@@ -112,3 +112,18 @@ h1 {
         .empty-input {
             border: 2px solid red;
         } */
+
+.rowCss {
+  justify-content: space-evenly;
+  column-gap: 0.5rem;
+}
+
+.stylingMas {
+  background: #f7c704;
+}
+
+.fonty{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+}
