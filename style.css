@@ -1,126 +1,22 @@
-/* body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
-h1 {
-    color: #333;
-}
-
-#input-container {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    margin: 20px;
-    text-align: left;
-}
-
-#input-container input {
-    width: 100%;
-    padding: 10px;
-    margin: 5px 0;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-}
-
-#generate-comic {
-    background-color: #007BFF;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-#generate-comic:hover {
-    background-color: #0056b3;
-}
-
-/* #comic-strip img {
-    display: block;
-    margin: 20px 0;
-    max-width: 100%;
-    height: auto;
-} */
-
-/* #comic-strip {
-    text-align: center;
-}
-.comic-strip img {
-    display: block;
-    margin: 20px;
-    max-width: 100%;
-    height: auto;
-}
-
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        #input-container {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            margin: 20px;
-            text-align: left;
-        }
-
-        #input-container input {
-            width: 100%;
-            padding: 10px;
-            margin: 5px 0;
-            border: 1px solid #ccc;
-            border-radius: 3px;
-        }
-
-        #generate-comic {
-            background-color: #007BFF;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        #generate-comic:hover {
-            background-color: #0056b3;
-        }
-
-        #comic-strip {
-            text-align: center;
-        }
-
-        .comic-container img {
-            display: inline-block;
-            margin: 10px;
-            max-width: 512px; 
-            height: auto;
-        }
-
-     
-        .empty-input {
-            border: 2px solid red;
-        } */
-
 .rowCss {
   justify-content: space-evenly;
   column-gap: 0.5rem;
 }
 
 .stylingMas {
-  background: #f7c704;
+  /* background: #f7c704; */
+ background: #ff0101d9
 }
+.outerMost {
+  /* background: #f7c704; */
+ background: #cccccbb1
+}
+/* .stylingStrip{
+    background: #048af7;
+}
+.stylingGenerateStrip{
+    background: #048af7; 
+ }   */
 
 .fonty{
     font-size: 20px;
