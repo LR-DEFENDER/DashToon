@@ -22,6 +22,8 @@ generateButton.addEventListener("click", () => {
           
          }
        generateComicStrip();
+    } else {
+        alert("Please fill out all fields before submitting.");
      }
 });
 async function query(data) {
